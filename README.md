@@ -34,25 +34,25 @@ Big Data & Cybersecurity Analytics
 
 Set up a Hadoop cluster using Docker and implemented MapReduce jobs for distributed data processing. Built Spark/PySpark pipelines and developed a Streamlit dashboard for ransomware detection analysis.
 
-→ Repository: [Coming Soon]
+→ Repository: [Big Data & Ransomware Analysis](https://github.com/Adem-jlassi/big-data-ransomware-analysis)
 
 Job Salary Prediction & Data Mining
 
 Performed data cleaning, exploratory data analysis, clustering with K-Means, and salary prediction using Decision Trees. Includes model evaluation and data visualization.
 
-→ Repository: [Coming Soon]
+→ Repository: [Job Salary Prediction](https://github.com/Adem-jlassi/job-salary-prediction)
 
 Machine Learning Algorithms Comparison
 
 Implemented and compared KNN, K-Means, and Random Forest algorithms using different datasets and evaluation metrics.
 
-→ Repository: [Coming Soon]
+→ Repository: [Machine Learning Algorithms](https://github.com/Adem-jlassi/machine-learning-algorithms)
 
 World Happiness Analysis
 
 Conducted statistical analysis using regression, PCA, ANOVA, and clustering techniques to study the factors influencing happiness scores across countries.
 
-→ Repository: [Coming Soon]
+→ Repository: [World Happiness Analysis](https://github.com/Adem-jlassi/world-happiness-analysis)
 
 
 
