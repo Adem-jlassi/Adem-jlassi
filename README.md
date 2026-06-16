@@ -1,73 +1,68 @@
-Adem Jlassi
+# Adem Jlassi
 
-🎓 3rd Year Big Data & Data Analytics (BDAD) Student at ISAMM Tunis
+🎓 Big Data & Data Analytics Student (3rd Year) — ISAMM Tunis  
+📍 Tunis, Tunisia  
+📧 ademjlassi.pro@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/adem-jlassi-58a07b341)
 
-🔍 Interested in Data Engineering, Data Science, Machine Learning, and Big Data
+---
 
-📍 Tunis, Tunisia
+## 👨‍💻 Profile
 
-📧 Ademjlassi.pro@gmail.com
+Ambitious **Big Data & Data Analytics student** with a strong academic foundation and hands-on experience in **data engineering, data science, and machine learning**.
 
-💼 LinkedIn: linkedin.com/in/adem-jlassi-58a07b341
+Skilled in designing data-driven solutions, working with large-scale datasets, and applying advanced analytical techniques to extract actionable insights.  
+Experienced with modern data ecosystems and distributed computing frameworks.
 
+Currently seeking a **PFE internship** where I can contribute to real-world data projects and further develop my expertise in **Data Engineering, Machine Learning, or Business Intelligence**.
 
+---
 
-About Me
+## 🧠 Core Competencies
 
-I am a third-year Big Data & Data Analytics student passionate about Data Engineering, Data Science, Machine Learning, and Big Data technologies.
+- Data Engineering & Distributed Systems  
+- Machine Learning & Predictive Modeling  
+- Data Analysis & Statistical Methods  
+- Big Data Processing & Pipelines  
 
-Through academic projects, I have gained hands-on experience in distributed computing, data mining, machine learning, statistical analysis, and predictive modeling using modern data technologies such as Hadoop, Spark, PySpark, Python, and R.
+---
 
-Currently seeking a PFE internship in Data Science, Data Engineering, Big Data, or Business Intelligence.
+## 🛠️ Technical Skills
 
+### Programming
+`Python` · `SQL` · `Java` · `R` · `C` · `C++`
 
+### Big Data Technologies
+`Hadoop` · `HDFS` · `MapReduce` · `Apache Spark` · `PySpark` · `Apache Hive`
 
-Skills
+### Data Science & ML
+`Pandas` · `NumPy` · `Scikit-Learn`  
+`Matplotlib` · `Seaborn`  
+Algorithms: K-Means · KNN · Decision Trees · Random Forest · Regression
 
-Languages: Python, SQL, Java, R, C, C++
+### Tools & Environment
+`Docker` · `Linux (Ubuntu)` · `Git / GitHub`  
+`Streamlit` · `Jupyter Notebook` · `Google Colab`
 
-Big Data: Hadoop, HDFS, MapReduce, Apache Spark, PySpark, Apache Hive
+---
 
-Machine Learning & Data Analysis: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, K-Means, KNN, Decision Trees, Random Forest, Regression Analysis
+## 🎯 Objective
 
-Tools & Platforms: Docker, Linux (Ubuntu), Git, GitHub, Streamlit, Jupyter Notebook, Google Colab
+To leverage my technical skills and academic background to:
+- Build scalable data pipelines  
+- Develop intelligent machine learning models  
+- Deliver impactful data-driven insights  
 
+---
 
+## 📬 Contact
 
-Projects
+- Email: ademjlassi.pro@gmail.com  
+- LinkedIn: [linkedin.com/in/adem-jlassi-58a07b341](https://linkedin.com/in/adem-jlassi-58a07b341)  
+- Location: Tunis, Tunisia  
 
-Big Data & Cybersecurity Analytics
+---
 
-Set up a Hadoop cluster using Docker and implemented MapReduce jobs for distributed data processing. Built Spark/PySpark pipelines and developed a Streamlit dashboard for ransomware detection analysis.
+## 🤝 Availability
 
-→ Repository: Big Data & Ransomware Analysis
-
-Job Salary Prediction & Data Mining
-
-Performed data cleaning, exploratory data analysis, clustering with K-Means, and salary prediction using Decision Trees. Includes model evaluation and data visualization.
-
-→ Repository: Job Salary Prediction
-
-Machine Learning Algorithms Comparison
-
-Implemented and compared KNN, K-Means, Random Forest, and SVM algorithms using different datasets and evaluation metrics.
-
-→ Repository: Machine Learning Algorithms
-
-World Happiness Analysis
-
-Conducted statistical analysis using regression, PCA, ANOVA, and clustering techniques to study the factors influencing happiness scores across countries.
-
-→ Repository: World Happiness Analysis
-
-
-
-Contact
-
-📧 Ademjlassi.pro@gmail.com
-
-💼 LinkedIn: linkedin.com/in/adem-jlassi-58a07b341
-
-📍 Tunis, Tunisia
-
-Open to internship and collaboration opportunities.
+✔ Open to Internship Opportunities  
