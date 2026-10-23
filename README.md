@@ -1,68 +1,62 @@
 # Adem Jlassi
 
-🎓 Big Data & Data Analytics Student (3rd Year) — ISAMM Tunis  
-📍 Tunis, Tunisia  
-📧 ademjlassi.pro@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/adem-jlassi-58a07b341)
+**Big Data & Data Analytics student at ISAMM Tunis** — I build data pipelines and the
+machine learning models that run on them.
+
+Tunis, Tunisia · [Portfolio](https://adem-jlassi.github.io) ·
+[ademjlassi.pro@gmail.com](mailto:ademjlassi.pro@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/adem-jlassi-58a07b341)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adem--jlassi.github.io-121513)](https://adem-jlassi.github.io)
+[![Open to PFE internships](https://img.shields.io/badge/status-open%20to%20PFE-121513)](https://adem-jlassi.github.io)
+
+![The portfolio, as it looks live](assets/portfolio.png)
+
+<p align="center"><sub>One page: the projects, the numbers behind them, and the CV.
+Hand-built with HTML, CSS and ~4 KB of JavaScript — no framework, no build step.</sub></p>
 
 ---
 
-## 👨‍💻 Profile
+## Selected work
 
-Ambitious **Big Data & Data Analytics student** with a strong academic foundation and hands-on experience in **data engineering, data science, and machine learning**.
-
-Skilled in designing data-driven solutions, working with large-scale datasets, and applying advanced analytical techniques to extract actionable insights.  
-Experienced with modern data ecosystems and distributed computing frameworks.
-
-Currently seeking a **PFE internship** where I can contribute to real-world data projects and further develop my expertise in **Data Engineering, Machine Learning, or Business Intelligence**.
-
----
-
-## 🧠 Core Competencies
-
-- Data Engineering & Distributed Systems  
-- Machine Learning & Predictive Modeling  
-- Data Analysis & Statistical Methods  
-- Big Data Processing & Pipelines  
+| Project | What it is | Highlights |
+|:--|:--|:--|
+| [Telecom churn prediction with Spark](https://github.com/Adem-jlassi/telecom-churn-prediction-spark) | PySpark + MLlib pipeline comparing logistic regression, random forests and gradient-boosted trees, tuned with 3-fold cross-validation | **test AUC 0.93**, churn recall 71%; 15% of customers hold 84% of the churners. Built during my internship at Tunisie Telecom |
+| [Big Data & ransomware analytics](https://github.com/Adem-jlassi/big-data-ransomware-analysis) | Hadoop cluster on Docker, Python MapReduce jobs and Spark passes (RDD *and* DataFrame API) | 62,000 records × 57 features, Streamlit dashboard |
+| [Job salary prediction](https://github.com/Adem-jlassi/job_salary_prediction) | Data mining workflow: cleaning, EDA, K-Means segmentation, decision-tree salary ranges | 250,000 records, with Jasser Houimli |
+| [World Happiness analysis](https://github.com/Adem-jlassi/world_happiness_analysis) | Five years of the UN report in R — regression, PCA, ANOVA, clustering | 781 country-years, ~170 countries |
+| [ML algorithms benchmark](https://github.com/Adem-jlassi/machine_learning_algorithms) | KNN, K-Means, Random Forest and SVM compared on precision, recall, F1 and accuracy | including all four SVM kernels |
 
 ---
 
-## 🛠️ Technical Skills
+## Toolkit
 
-### Programming
-`Python` · `SQL` · `Java` · `R` · `C` · `C++`
+| | |
+|:--|:--|
+| **Languages** | Python, SQL, Java, R, C, C++ |
+| **Big data** | Apache Spark, PySpark, Hadoop, HDFS, MapReduce, Apache Hive |
+| **ML & analysis** | scikit-learn, Pandas, NumPy, Matplotlib, Seaborn — regression, trees, forests, K-Means, KNN, SVM |
+| **Environment** | Docker, Linux (Ubuntu), Git, Streamlit, Jupyter, Google Colab |
 
-### Big Data Technologies
-`Hadoop` · `HDFS` · `MapReduce` · `Apache Spark` · `PySpark` · `Apache Hive`
-
-### Data Science & ML
-`Pandas` · `NumPy` · `Scikit-Learn`  
-`Matplotlib` · `Seaborn`  
-Algorithms: K-Means · KNN · Decision Trees · Random Forest · Regression
-
-### Tools & Environment
-`Docker` · `Linux (Ubuntu)` · `Git / GitHub`  
-`Streamlit` · `Jupyter Notebook` · `Google Colab`
+Beyond the tools: exploratory analysis, feature engineering, cross-validation, PCA and
+ANOVA — and a preference for confusion matrices over accuracy scores.
 
 ---
 
-## 🎯 Objective
+## Now
 
-To leverage my technical skills and academic background to:
-- Build scalable data pipelines  
-- Develop intelligent machine learning models  
-- Deliver impactful data-driven insights  
+- 3rd year, B.Sc. Big Data & Data Analytics (BDAD) at ISAMM Tunis — expected 2027
+- Data Science / Big Data intern at Tunisie Telecom — Direction Centrale des Systèmes d'Information
+- Member of the Club Jeune Ingénieur; competitive programming in national contests
+- **Seeking a PFE internship** in data engineering, machine learning or business intelligence
 
----
-
-## 📬 Contact
-
-- Email: ademjlassi.pro@gmail.com  
-- LinkedIn: [linkedin.com/in/adem-jlassi-58a07b341](https://linkedin.com/in/adem-jlassi-58a07b341)  
-- Location: Tunis, Tunisia  
+Baccalauréat in Computer Science, 2024. Arabic (native), French (B2), English (B2).
 
 ---
 
-## 🤝 Availability
+## Contact
 
-✔ Open to Internship Opportunities  
+[ademjlassi.pro@gmail.com](mailto:ademjlassi.pro@gmail.com) ·
+[adem-jlassi.github.io](https://adem-jlassi.github.io) ·
+[LinkedIn](https://linkedin.com/in/adem-jlassi-58a07b341) ·
+[Download the CV (PDF)](https://adem-jlassi.github.io/Adem-Jlassi-CV.pdf)
